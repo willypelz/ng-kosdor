@@ -56,7 +56,7 @@
                         <!-- start .search_box -->
                         <div class="search_box">
                             <form action="#">
-                                <input type="text" class="text_field" placeholder="Search your products...">
+                                <input type="text" class="text_field" placeholder="Search  products...">
 
                                 <button onclick="alert('Coming Soon')" class="search-btn btn--lg">Search Now</button>
                             </form>
