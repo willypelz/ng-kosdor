@@ -307,7 +307,7 @@ START MENU AREA
         {{--                                                    </div>--}}
 
         {{--                                                    <div class="info">--}}
-        {{--                                                        <a class="title" href="single-product.html">Finance and--}}
+        {{--                                                      <a class="title" href="single-product.html">Finance and--}}
         {{--                                                            Consulting Business Theme</a>--}}
         {{--                                                        <div class="cat">--}}
         {{--                                                            <a href="#">--}}
@@ -578,47 +578,50 @@ START MENU AREA
                                 <li>
                                     <a href="{{ route('home') }}">HOME</a>
                                 </li>
+                                 <li>
+                                    <a href="{{ route('about') }}">about us</a>
+                                 </li>
                                 <li class="has_dropdown">
-                                    <a href="{{ route('products') }}">all product</a>
+                                    <a href="{{ route('products') }}">Agricultural Products</a>
                                     <div class="dropdowns dropdown--menu">
                                         <ul>
                                             <li>
-                                                <a onClick="alert('Coming Soon')">Recent Product</a>
+                                                <a onClick="alert('Coming Soon')">Cashew nut supply </a>
                                             </li>
                                             <li>
-                                                <a onClick="alert('Coming Soon')">Popular Product</a>
+                                                <a onClick="alert('Coming Soon')">Ginger Supply </a>
                                             </li>
                                             <li>
-                                                <a onClick="alert('Coming Soon')">All Product</a>
+                                                <a onClick="alert('Coming Soon')">Pea nut supply</a>
                                             </li>
                                         </ul>
                                     </div>
                                 </li>
                                 <li class="has_dropdown">
-                                    <a href="#">categories</a>
+                                    <a href="#">Consulting</a>
                                     <div class="dropdowns dropdown--menu">
-                                        <ul>
-                                            <li>
-                                                <a onClick="alert('Coming Soon')">Agro Chemical</a>
-                                            </li>
-                                            <li>
-                                                <a onClick="alert('Coming Soon')">Fruits</a>
-                                            </li>
-                                            <li>
-                                                <a onClick="alert('Coming Soon')">Beans</a>
-                                            </li>
-                                            <li>
-                                                <a onClick="alert('Coming Soon')">Rice</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </li>
-                                <li class="has_megamenu">
-                                    <a onClick="alert('Coming Soon')">Blog</a>
-                                    <div class="dropdown_megamenu contained">
-                                        <div class="megamnu_module">
-                                            <div class="menu_items">
 
+
+
+                                        <ul>
+                                            <li>
+                                                <a onClick="alert('Coming Soon')"> Due Diligence Checks</a>
+                                            </li>
+                                            <li>
+                                                <a onClick="alert('Coming Soon')">Market Research & Feasibility Reports</a>
+                                            </li>
+                                            <li>
+                                                <a onClick="alert('Coming Soon')">Trade Licence Registration</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                             {{--     <li class="has_megamenu">
+                                                                       <a onClick="alert('Coming Soon')">Blog</a>
+                                                                       <div class="dropdown_megamenu contained">
+                                                                           <div class="megamnu_module">
+                                                                               <div class="menu_items">
+ --}}
                                                 {{--                                                <div class="menu_column">--}}
                                                 {{--                                                    <ul>--}}
                                                 {{--                                                        <li>--}}
@@ -703,19 +706,17 @@ START MENU AREA
                                                 {{--                                                        </li>--}}
                                                 {{--                                                    </ul>--}}
                                                 {{--                                                </div>--}}
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <a href="{{ route('about') }}">about us</a>
-                                </li>
+                                       {{--      </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </li> --}}
+
                                 <li>
                                     <a href="{{ route('contact') }}">contact</a>
                                 </li>
-                                <li>
+                             {{--       <li>
                                     <a href="{{ route('register') }}">Register</a>
-                                </li>
+                                </li>  --}}
                             </ul>
                         </div>
                         <!-- /.navbar-collapse -->
