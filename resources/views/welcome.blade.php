@@ -110,7 +110,6 @@
                                  width="320px" height="270px" alt="Product Image">
                             <div class="prod_btn">
                                 <a onclick="alert('Coming Soon')" class="transparent btn--sm btn--round">More Info</a>
-                                <a onclick="alert('Coming Soon')" class="transparent btn--sm btn--round">Order Now</a>
                             </div>
                             <!-- end /.prod_btn -->
                         </div>
@@ -152,7 +151,7 @@
                                  alt="Product Image">
                             <div class="prod_btn">
                                 <a onclick="alert('Coming Soon')" class="transparent btn--sm btn--round">More Info</a>
-                                <a onclick="alert('Coming Soon')" class="transparent btn--sm btn--round">Order Now</a>
+                            
                             </div>
                             <!-- end /.prod_btn -->
                         </div>
@@ -191,7 +190,6 @@
                             <img src="images/products/images(14).jpg" width="320px" height="270px" alt="Product Image">
                             <div class="prod_btn">
                                 <a onclick="alert('Coming Soon')" class="transparent btn--sm btn--round">More Info</a>
-                                <a onclick="alert('Coming Soon')" class="transparent btn--sm btn--round">Order Now</a>
                             </div>
                             <!-- end /.prod_btn -->
                         </div>
@@ -231,7 +229,6 @@
                                  width="320px" height="270px" alt="Product Image">
                             <div class="prod_btn">
                                 <a onclick="alert('Coming Soon')" class="transparent btn--sm btn--round">More Info</a>
-                                <a onclick="alert('Coming Soon')" class="transparent btn--sm btn--round">Order Now</a>
                             </div>
                             <!-- end /.prod_btn -->
                         </div>
@@ -273,7 +270,6 @@
                                  alt="Product Image">
                             <div class="prod_btn">
                                 <a onclick="alert('Coming Soon')" class="transparent btn--sm btn--round">More Info</a>
-                                <a onclick="alert('Coming Soon')" class="transparent btn--sm btn--round">Order Now</a>
                             </div>
                             <!-- end /.prod_btn -->
                         </div>
@@ -312,7 +308,6 @@
                             <img src="images/products/images(14).jpg" width="320px" height="270px" alt="Product Image">
                             <div class="prod_btn">
                                 <a onclick="alert('Coming Soon')" class="transparent btn--sm btn--round">More Info</a>
-                                <a onclick="alert('Coming Soon')" class="transparent btn--sm btn--round">Order Now</a>
                             </div>
                             <!-- end /.prod_btn -->
                         </div>
