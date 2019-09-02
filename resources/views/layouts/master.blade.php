@@ -591,9 +591,15 @@ START MENU AREA
                                             <li>
                                                 <a onClick="alert('Coming Soon')">Ginger Supply </a>
                                             </li>
-                                            <li>
-                                                <a onClick="alert('Coming Soon')">Pea nut supply</a>
-                                            </li>
+                                              <li>
+                                                <a onClick="alert('Coming Soon')">Cocoa Supply </a>
+                                            </li> 
+                                               <li>
+                                                <a onClick="alert('Coming Soon')">Charcoal Supply </a>
+                                            </li> 
+                                               <li>
+                                                <a onClick="alert('Coming Soon')">Sesame Supply </a>
+                                            </li> 
                                         </ul>
                                     </div>
                                 </li>
@@ -746,7 +752,7 @@ START MENU AREA
                 <div class="col-lg-3 col-md-6">
                     <div class="info-footer">
                         <div class="info__logo">
-                            <img src="images/products/IMG-20190727-WA0016.jpg" width="220" height="70" alt="footer logo">
+                            <img src="images/products/logo.jpg" width="220" height="70" alt="footer logo">
                         </div>
 
                         <ul class="info-contact">
@@ -832,7 +838,7 @@ START MENU AREA
                         <div class="social social--color--filled">
                             <ul>
                                 <li>
-                                    <a href="#">
+                                    <a href="https://web.facebook.com/kosdorExportersIntlLtd/?_rdc=1&_rdr">
                                         <span class="fa fa-facebook"></span>
                                     </a>
                                 </li>

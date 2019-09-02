@@ -106,7 +106,7 @@
                     <div class="product product--card product--card3">
 
                         <div class="product__thumbnail">
-                            <img src="images/products/green-jackfruit-growing-in-fruit-garden-is-product-agriculture-of-DWAJ5J.jpg"
+                            <img src="images/products/cashew.jpg"
                                  width="320px" height="270px" alt="Product Image">
                             <div class="prod_btn">
                                 <a onclick="alert('Coming Soon')" class="transparent btn--sm btn--round">More Info</a>
@@ -117,15 +117,15 @@
 
                         <div class="product-desc">
                             <a onclick="alert('Coming Soon')" class="product_title">
-                                <h4>Jack Fruits supply</h4>
+                                <h4>Cashew nut supply</h4>
                             </a>
                             <ul class="titlebtm">
                                 <li>
                                     <img class="auth-img"
-                                         src="images/products/green-jackfruit-growing-in-fruit-garden-is-product-agriculture-of-DWAJ5J.jpg"
+                                         src="images/products/cashew.jpg"
                                          width="320px" height="270px" alt="author image">
                                     <p>
-                                        <a onclick="alert('Coming Soon')">Jack Fruits supply</a>
+                                        <a onclick="alert('Coming Soon')">Cashew nut</a>
                                     </p>
                                 </li>
                                 <li class="product_cat">
@@ -147,7 +147,7 @@
                     <div class="product product--card product--card3">
 
                         <div class="product__thumbnail">
-                            <img src="images/products/Agriculture-Product-Stocks-3.jpg" width="320px" height="270px"
+                            <img src="images/products/ginger.jpg" width="320px" height="270px"
                                  alt="Product Image">
                             <div class="prod_btn">
                                 <a onclick="alert('Coming Soon')" class="transparent btn--sm btn--round">More Info</a>
@@ -159,14 +159,14 @@
 
                         <div class="product-desc">
                             <a onclick="alert('Coming Soon')" class="product_title">
-                                <h4>Tomato and carrot supply</h4>
+                                <h4>Ginger supply</h4>
                             </a>
                             <ul class="titlebtm">
                                 <li>
-                                    <img class="auth-img" src="images/products/Agriculture-Product-Stocks-3.jpg"
+                                    <img class="auth-img" src="images/products/ginger.jpg"
                                          width="320px" height="270px" alt="author image">
                                     <p>
-                                        <a onclick="alert('Coming Soon')">tomato and carrot </a>
+                                        <a onclick="alert('Coming Soon')">Ginger </a>
                                     </p>
                                 </li>
                                 <li class="product_cat">
@@ -187,7 +187,7 @@
                     <div class="product product--card product--card3">
 
                         <div class="product__thumbnail">
-                            <img src="images/products/images(14).jpg" width="320px" height="270px" alt="Product Image">
+                            <img src="images/products/Sesame.jpg" width="320px" height="270px" alt="Product Image">
                             <div class="prod_btn">
                                 <a onclick="alert('Coming Soon')" class="transparent btn--sm btn--round">More Info</a>
                             </div>
@@ -197,14 +197,14 @@
 
                         <div class="product-desc">
                             <a onclick="alert('Coming Soon')" class="product_title">
-                                <h4>Maize supply</h4>
+                                <h4>Sesame supply</h4>
                             </a>
                             <ul class="titlebtm">
                                 <li>
-                                    <img class="auth-img" src="images/products/images(14).jpg" width="320px"
+                                    <img class="auth-img" src="images/products/Sesame.jpg" width="320px"
                                          height="270px" alt="author image">
                                     <p>
-                                        <a href="#">Maize</a>
+                                        <a href="#">Sesame</a>
                                     </p>
                                 </li>
                                 <li class="product_cat">
@@ -225,7 +225,7 @@
                     <div class="product product--card product--card3">
 
                         <div class="product__thumbnail">
-                            <img src="images/products/green-jackfruit-growing-in-fruit-garden-is-product-agriculture-of-DWAJ5J.jpg"
+                            <img src="images/products/cocoa.jpg"
                                  width="320px" height="270px" alt="Product Image">
                             <div class="prod_btn">
                                 <a onclick="alert('Coming Soon')" class="transparent btn--sm btn--round">More Info</a>
@@ -236,15 +236,15 @@
 
                         <div class="product-desc">
                             <a onclick="alert('Coming Soon')" class="product_title">
-                                <h4>Jack Fruits supply</h4>
+                                <h4>Cocoa supply</h4>
                             </a>
                             <ul class="titlebtm">
                                 <li>
                                     <img class="auth-img"
-                                         src="images/products/green-jackfruit-growing-in-fruit-garden-is-product-agriculture-of-DWAJ5J.jpg"
+                                         src="images/products/cocoa.jpg"
                                          width="320px" height="270px" alt="author image">
                                     <p>
-                                        <a onclick="alert('Coming Soon')">Jack Fruits supply</a>
+                                        <a onclick="alert('Coming Soon')">Cocoa supply</a>
                                     </p>
                                 </li>
                                 <li class="product_cat">
@@ -266,7 +266,7 @@
                     <div class="product product--card product--card3">
 
                         <div class="product__thumbnail">
-                            <img src="images/products/Agriculture-Product-Stocks-3.jpg" width="320px" height="270px"
+                            <img src="images/products/Charcoal.jpg" width="320px" height="270px"
                                  alt="Product Image">
                             <div class="prod_btn">
                                 <a onclick="alert('Coming Soon')" class="transparent btn--sm btn--round">More Info</a>
@@ -277,14 +277,14 @@
 
                         <div class="product-desc">
                             <a onclick="alert('Coming Soon')" class="product_title">
-                                <h4>Tomato and carrot supply</h4>
+                                <h4>Charcoal supply</h4>
                             </a>
                             <ul class="titlebtm">
                                 <li>
-                                    <img class="auth-img" src="images/products/Agriculture-Product-Stocks-3.jpg"
+                                    <img class="auth-img" src="images/products/Charcoal.jpg"
                                          width="320px" height="270px" alt="author image">
                                     <p>
-                                        <a onclick="alert('Coming Soon')">tomato and carrot </a>
+                                        <a onclick="alert('Coming Soon')">Charcoal </a>
                                     </p>
                                 </li>
                                 <li class="product_cat">
