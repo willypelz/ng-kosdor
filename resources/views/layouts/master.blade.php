@@ -567,6 +567,10 @@ START MENU AREA
                     </div>
 
                     <nav class="navbar navbar-expand-md navbar-light mainmenu__menu">
+                        <div >
+                            <img src="images/products/logo.jpg" width="120" height="70" alt="footer logo">
+                        </div>
+
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                                 aria-controls="navbarNav" aria-expanded="false"
                                 aria-label="Toggle navigation">
@@ -582,7 +586,8 @@ START MENU AREA
                                     <a href="{{ route('about') }}">about us</a>
                                  </li>
                                 <li class="has_dropdown">
-                                    <a href="{{ route('products') }}">Agricultural Products</a>
+                                    <a href="#">Agricultural Products</a>
+                                    <!-- <a href="{{ route('products') }}">Agricultural Products</a> -->
                                     <div class="dropdowns dropdown--menu">
                                         <ul>
                                             <li>

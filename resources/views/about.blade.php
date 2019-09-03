@@ -61,7 +61,7 @@
 
             <div class="content_image2 bgimage">
                 <div class="bg_image_holder">
-                    <img src="images/products/Agriculture_in_Vietnam_with_farmers.jpg"  width="960px"  height="550px" alt="">
+                    <img src="images/products/cocoa-ware-house.jpg"  width="960px"  height="550px" alt="">
                 </div>
             </div>
         </div>

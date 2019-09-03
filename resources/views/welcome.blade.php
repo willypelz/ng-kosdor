@@ -7,7 +7,7 @@
     =================================-->
     <section class="hero-area hero--2 bgimage">
         <div class="bg_image_holder">
-            <img src="images/products/ant-rozetsky-460461-unsplash_1000_563_80.jpg" alt="">
+            <img src="images/products/cocoa-export.jpg" alt="">
         </div>
 
         <!-- start hero-content -->
@@ -22,10 +22,10 @@
                         <div class="col-md-6">
                             <div class="hero__content__title">
                                 <h1>
-                                   WE EXPORT AND SUPPLY AGRIPRODUCTS
+                                   <b>WE EXPORT AND SUPPLY AGRIPRODUCTS</b>
                                 </h1>
-                                <p class="tagline text-light">Kosdor facilitate the supply of a broad range of agricultural
-                                 products to various ports in over 54+ countries around the world.</p>
+                                <p class="tagline text-light"><b>Kosdor facilitate the supply of a broad range of agricultural
+                                 products to various ports in over 54+ countries around the world.</b></p>
                             </div>
                             <!-- start .hero__btn-area-->
                             <div class="hero__btn-area">
@@ -358,14 +358,14 @@
 <!--================================
         START COUNTER UP AREA
     =================================-->
-    <section class="counter-up-area bgimage">
+  <!--   <section class="counter-up-area bgimage">
         <div class="bg_image_holder">
             <img src="images/products/AboutUs-05.jpg" alt="">
-        </div>
+        </div> -->
         <!-- start .container -->
-        <div class="container content_above">
+        <!-- <div class="container content_above"> -->
             <!-- start .col-md-12 -->
-            <div class="col-md-12">
+            <!-- <div class="col-md-12">
                 <div class="counter-up">
                     <div class="counter mcolor2">
                         <span class="lnr lnr-briefcase"></span>
@@ -388,11 +388,11 @@
                                             <p>Total imported products</p>
                                         </div>
                 </div>
-            </div>
+            </div> -->
             <!-- end /.col-md-12 -->
-        </div>
+        <!-- </div> -->
         <!-- end /.container -->
-    </section>
+    <!-- </section> -->
     <!--================================
         END COUNTER UP AREA
     =================================-->

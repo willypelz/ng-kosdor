@@ -64,7 +64,6 @@
                                 <div class="contact_form__title">
                                     <h3>Leave Your Messages</h3>
                                 </div>
-
                                 <div class="row">
                                     <div class="col-md-8 offset-md-2">
                                         <div class="contact_form--wrapper">
@@ -72,13 +71,13 @@
                                                 <div class="row">
                                                     <div class="col-md-6">
                                                         <div class="form-group">
-                                                            <input type="text" placeholder="Name">
+                                                            <input type="text" placeholder="Full Name">
                                                         </div>
                                                     </div>
 
                                                     <div class="col-md-6">
                                                         <div class="form-group">
-                                                            <input type="text" placeholder="Email">
+                                                            <input type="text" placeholder="Email Address">
                                                         </div>
                                                     </div>
                                                 </div>
@@ -86,15 +85,29 @@
                                                 <div class="row">
                                                     <div class="col-md-6">
                                                         <div class="form-group">
-                                                            <input type="text" placeholder="Name">
+                                                            <input type="text" placeholder="Contact Address">
                                                         </div>
                                                     </div>
 
                                                     <div class="col-md-6">
                                                         <div class="form-group">
-                                                            <input type="text" placeholder="Email">
+                                                            <input type="text" placeholder="Phone Number">
                                                         </div>
                                                     </div>
+                                                </div>
+
+                                                <div class="row">
+                                                    <div class="col-md-6">
+                                                        <div class="form-group">
+                                                            <input type="text" placeholder="Position">
+                                                        </div>
+                                                    </div>
+                                                     <div class="col-md-6">
+                                                        <div class="form-group">
+                                                            <input type="text" placeholder="Company Name">
+                                                        </div>
+                                                    </div>
+
                                                 </div>
 
                                                 <textarea cols="30" rows="10" placeholder="Yout text here"></textarea>
